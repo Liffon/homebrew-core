@@ -60,6 +60,7 @@
     "exclude_packages": ["certifi"]
   },
   "arcade-learning-environment": {
+    "package_name": "arcade-learning-environment[vector]",
     "exclude_packages": ["numpy"],
     "extra_packages": ["gymnasium"]
   },
